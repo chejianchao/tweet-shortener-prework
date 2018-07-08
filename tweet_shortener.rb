@@ -15,3 +15,6 @@ def word_substituter(str)
   str_list = str.split(" ")
   
 end
+
+def selective_tweet_shortener
+end
